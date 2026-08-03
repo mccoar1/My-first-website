@@ -1,0 +1,41 @@
+p {
+    color:goldenrod;
+}
+
+body {
+    background-color: grey;
+}
+
+table, tr, td {
+    border-style: groove;
+    border-color: black;
+}
+
+#nPage {
+    border-style: ridge;
+    border-color: black;
+    background-color: whitesmoke;
+}
+
+#banner {
+    display: block; 
+    max-width: 40%;
+    height: auto;
+    margin: 0 auto; 
+}
+
+ol, ul, li {
+    border-style: double;
+    border-color: black;
+}
+
+address {
+    border-style: double;
+    border-color: black;
+}
+
+#wikiP {
+    border-style: ridge;
+    border-color: black;
+    background-color: whitesmoke;
+}
